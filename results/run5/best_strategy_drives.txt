@@ -1,0 +1,94 @@
+Best Evolved Strategy: Strategy(run=0.012, short=0.038, deep=0.950, 4th_aggr=1.000)
+
+
+[1m===== DRIVE 1 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[93m  1st & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[93m  3rd & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[92m  4th & 10 at OWN 25  →  DEEP PASS: Complete, +24 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OWN 49  →  DEEP PASS: Incomplete[0m
+[92m  2nd & 10 at OWN 49  →  DEEP PASS: Complete, +20 yds  ✓ FIRST DOWN[0m
+[92m  1st & 10 at OPP 31  →  DEEP PASS: Complete, +23 yds  ✓ FIRST DOWN[0m
+[1m[91m  1st & 10 at OPP  8  →  DEEP PASS: INTERCEPTION  ✗ TURNOVER[0m
+[94m  Drive Result: -3.5 pts | Ended: Interception[0m
+
+[1m===== DRIVE 2 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[93m  1st & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[92m  3rd & 10 at OWN 25  →  DEEP PASS: Complete, +25 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OWN 50  →  DEEP PASS: Incomplete[0m
+[92m  2nd & 10 at OWN 50  →  DEEP PASS: Complete, +24 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OPP 26  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OPP 26  →  DEEP PASS: Incomplete[0m
+[1m[92m  3rd & 10 at OPP 26  →  DEEP PASS: Complete, +26 yds  ★ TOUCHDOWN[0m
+[94m  Drive Result: 7 pts | Ended: Touchdown[0m
+
+[1m===== DRIVE 3 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[92m  1st & 10 at OWN 25  →  DEEP PASS: Complete, +21 yds  ✓ FIRST DOWN[0m
+[92m  1st & 10 at OWN 46  →  DEEP PASS: Complete, +24 yds  ✓ FIRST DOWN[0m
+[1m[92m  1st & 10 at OPP 30  →  DEEP PASS: Complete, +45 yds  ★ TOUCHDOWN[0m
+[94m  Drive Result: 7 pts | Ended: Touchdown[0m
+
+[1m===== DRIVE 4 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[93m  1st & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[92m  2nd & 10 at OWN 25  →  DEEP PASS: Complete, +28 yds  ✓ FIRST DOWN[0m
+[92m  1st & 10 at OPP 47  →  DEEP PASS: Complete, +14 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OPP 33  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OPP 33  →  DEEP PASS: Incomplete[0m
+[93m  3rd & 10 at OPP 33  →  DEEP PASS: Incomplete[0m
+[1m[92m  4th & 10 at OPP 33  →  FIELD GOAL  ✓[0m
+[94m  Drive Result: 3 pts | Ended: Field Goal[0m
+
+[1m===== DRIVE 5 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[92m  1st & 10 at OWN 25  →  DEEP PASS: Complete, +27 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OPP 48  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OPP 48  →  DEEP PASS: Incomplete[0m
+[93m  3rd & 10 at OPP 48  →  DEEP PASS: Incomplete[0m
+[92m  4th & 10 at OPP 48  →  DEEP PASS: Complete, +32 yds  ✓ FIRST DOWN[0m
+[1m[92m  1st & 10 at OPP 16  →  DEEP PASS: Complete, +21 yds  ★ TOUCHDOWN[0m
+[94m  Drive Result: 7 pts | Ended: Touchdown[0m
+
+[1m===== DRIVE 6 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[92m  1st & 10 at OWN 25  →  DEEP PASS: Complete, +18 yds  ✓ FIRST DOWN[0m
+[92m  1st & 10 at OWN 43  →  DEEP PASS: Complete, +34 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OPP 23  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OPP 23  →  DEEP PASS: Incomplete[0m
+[93m  3rd & 10 at OPP 23  →  DEEP PASS: Incomplete[0m
+[1m[92m  4th & 10 at OPP 23  →  FIELD GOAL  ✓[0m
+[94m  Drive Result: 3 pts | Ended: Field Goal[0m
+
+[1m===== DRIVE 7 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[93m  1st & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OWN 25  →  SHORT PASS: Incomplete[0m
+[92m  3rd & 10 at OWN 25  →  DEEP PASS: Complete, +35 yds  ✓ FIRST DOWN[0m
+[92m  1st & 10 at OPP 40  →  DEEP PASS: Complete, +29 yds  ✓ FIRST DOWN[0m
+[1m[92m  1st & 10 at OPP 11  →  DEEP PASS: Complete, +36 yds  ★ TOUCHDOWN[0m
+[94m  Drive Result: 7 pts | Ended: Touchdown[0m
+
+[1m===== DRIVE 8 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[93m  1st & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[1m[91m  3rd & 10 at OWN 25  →  DEEP PASS: INTERCEPTION  ✗ TURNOVER[0m
+[94m  Drive Result: -3.5 pts | Ended: Interception[0m
+
+[1m===== DRIVE 9 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[92m  1st & 10 at OWN 25  →  DEEP PASS: Complete, +17 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OWN 42  →  DEEP PASS: Incomplete[0m
+[93m  2nd & 10 at OWN 42  →  DEEP PASS: Incomplete[0m
+[92m  3rd & 10 at OWN 42  →  DEEP PASS: Complete, +29 yds  ✓ FIRST DOWN[0m
+[92m  1st & 10 at OPP 29  →  DEEP PASS: Complete, +26 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OPP  3  →  DEEP PASS: Incomplete[0m
+[1m[91m  2nd & 10 at OPP  3  →  DEEP PASS: INTERCEPTION  ✗ TURNOVER[0m
+[94m  Drive Result: -3.5 pts | Ended: Interception[0m
+
+[1m===== DRIVE 10 | Strategy: Run 1% | Short 4% | Deep 95% | 4th Aggr: 1.00 =====[0m
+[93m  1st & 10 at OWN 25  →  DEEP PASS: Incomplete[0m
+[92m  2nd & 10 at OWN 25  →  DEEP PASS: Complete, +18 yds  ✓ FIRST DOWN[0m
+[93m  1st & 10 at OWN 43  →  DEEP PASS: Incomplete[0m
+[92m  2nd & 10 at OWN 43  →  DEEP PASS: Complete, +31 yds  ✓ FIRST DOWN[0m
+[1m[92m  1st & 10 at OPP 26  →  DEEP PASS: Complete, +29 yds  ★ TOUCHDOWN[0m
+[94m  Drive Result: 7 pts | Ended: Touchdown[0m
+
+=======================================================
+  10-drive total: 30.5 pts  |  avg: 3.05 pts/drive
+=======================================================

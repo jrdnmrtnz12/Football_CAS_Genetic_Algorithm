@@ -1,0 +1,97 @@
+========================================================================
+  Avg Fitness Figures — 4 runs × 10 seeds
+  Pop=100  Gens=100  Drives/eval=100
+========================================================================
+
+Loading probability distributions...
+  Done.
+
+========================================================================
+  RUN1 — Run 1 — mean(pts), no constraints
+========================================================================
+  Seed   FinalBest      run%      sht%      dep%      4th  elapsed
+  ----------------------------------------------------------------------
+     1      4.1200  run=  5.2%  sht=  0.0%  dep= 94.8%  4th=1.000  00:50
+     2      4.5400  run=  0.0%  sht=  0.0%  dep=100.0%  4th=0.937  00:49
+     3      4.2000  run=  0.3%  sht=  1.8%  dep= 97.9%  4th=0.906  00:50
+     4      4.2300  run=  0.0%  sht=  0.0%  dep=100.0%  4th=1.000  00:50
+     5      4.3600  run=  9.1%  sht=  4.7%  dep= 86.2%  4th=0.906  00:50
+     6      4.5200  run=  0.8%  sht=  4.0%  dep= 95.3%  4th=0.960  00:49
+     7      4.1800  run=  2.3%  sht=  0.0%  dep= 97.7%  4th=1.000  00:49
+     8      4.2700  run=  0.0%  sht=  0.7%  dep= 99.3%  4th=0.952  00:50
+     9      4.3200  run=  0.0%  sht=  0.0%  dep=100.0%  4th=0.971  00:50
+    10      4.4300  run=  0.0%  sht=  5.2%  dep= 94.8%  4th=1.000  00:50
+
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run1/gen_histories.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run1/gen_seed_strategies.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run1/gen_stats.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/figures/multi_seed/run1_avg_fitness.png
+  run1 complete — 8.4 min
+
+========================================================================
+  RUN3 — Run 3 — mean(pts) − 0.5·std + constraints
+========================================================================
+  Seed   FinalBest      run%      sht%      dep%      4th  elapsed
+  ----------------------------------------------------------------------
+     1      2.6049  run= 12.9%  sht=  0.0%  dep= 87.1%  4th=0.916  00:51
+     2      2.6476  run=  0.8%  sht= 24.8%  dep= 74.4%  4th=0.918  00:50
+     3      2.6327  run=  0.0%  sht= 14.3%  dep= 85.7%  4th=0.939  00:51
+     4      2.6401  run= 10.9%  sht=  0.0%  dep= 89.1%  4th=0.890  00:51
+     5      2.6986  run=  0.0%  sht=  3.3%  dep= 96.7%  4th=1.000  00:51
+     6      2.7402  run=  3.0%  sht=  7.3%  dep= 89.8%  4th=0.927  00:51
+     7      2.5477  run=  0.0%  sht=  0.0%  dep=100.0%  4th=1.000  00:51
+     8      2.7696  run=  0.5%  sht=  0.0%  dep= 99.5%  4th=0.960  00:52
+     9      2.5777  run=  3.7%  sht=  3.4%  dep= 92.9%  4th=0.981  00:53
+    10      2.7980  run=  1.5%  sht=  2.0%  dep= 96.5%  4th=0.997  00:51
+
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run3/gen_histories.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run3/gen_seed_strategies.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run3/gen_stats.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/figures/multi_seed/run3_avg_fitness.png
+  run3 complete — 8.6 min
+
+========================================================================
+  RUN4A — Run 4a — mean(pts), turnover penalty −3.5
+========================================================================
+  Seed   FinalBest      run%      sht%      dep%      4th  elapsed
+  ----------------------------------------------------------------------
+     1      3.7950  run=  6.0%  sht= 89.8%  dep=  4.1%  4th=1.000  01:29
+     2      3.2750  run=  0.0%  sht= 19.0%  dep= 81.0%  4th=0.912  00:56
+     3      3.5800  run=  0.0%  sht= 99.3%  dep=  0.7%  4th=0.997  01:32
+     4      3.5300  run=  6.7%  sht= 86.2%  dep=  7.1%  4th=0.999  01:27
+     5      3.2850  run=  6.1%  sht= 93.9%  dep=  0.0%  4th=0.920  01:31
+     6      3.7550  run=  0.0%  sht= 11.0%  dep= 89.0%  4th=0.923  00:54
+     7      3.9550  run=  7.0%  sht= 75.1%  dep= 17.9%  4th=0.799  01:28
+     8      3.2850  run=  4.3%  sht= 88.0%  dep=  7.8%  4th=0.941  01:27
+     9      3.5200  run=  0.0%  sht=100.0%  dep=  0.0%  4th=0.807  01:30
+    10      3.6500  run=  0.0%  sht= 91.6%  dep=  8.4%  4th=1.000  01:33
+
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run4a/gen_histories.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run4a/gen_seed_strategies.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run4a/gen_stats.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/figures/multi_seed/run4a_avg_fitness.png
+  run4a complete — 13.9 min
+
+========================================================================
+  RUN4B — Run 4b — mean(pts) − 0.5·std, turnover penalty −3.5
+========================================================================
+  Seed   FinalBest      run%      sht%      dep%      4th  elapsed
+  ----------------------------------------------------------------------
+     1      1.6805  run=  8.8%  sht= 91.2%  dep=  0.0%  4th=1.000  01:34
+     2      1.5734  run=  1.9%  sht= 85.3%  dep= 12.9%  4th=0.924  01:34
+     3      1.5754  run= 10.8%  sht= 86.3%  dep=  2.9%  4th=0.943  01:34
+     4      2.2923  run=  0.0%  sht=100.0%  dep=  0.0%  4th=1.000  01:33
+     5      1.8206  run=  0.0%  sht=100.0%  dep=  0.0%  4th=1.000  01:33
+     6      1.8145  run=  0.0%  sht=100.0%  dep=  0.0%  4th=1.000  01:34
+     7      2.3089  run=  8.3%  sht= 91.7%  dep=  0.0%  4th=1.000  01:34
+     8      1.9129  run=  7.2%  sht= 92.2%  dep=  0.6%  4th=0.768  01:33
+     9      1.8117  run=  2.8%  sht= 95.6%  dep=  1.6%  4th=0.873  01:34
+    10      1.7912  run= 15.9%  sht= 84.1%  dep=  0.0%  4th=0.950  01:33
+
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run4b/gen_histories.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run4b/gen_seed_strategies.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/results/multi_seed/run4b/gen_stats.csv
+  Saved /Users/jrdnmrtnz12/CAS_Football_GA/figures/multi_seed/run4b_avg_fitness.png
+  run4b complete — 15.7 min
+
+All done — total wall time: 46.6 min
